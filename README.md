@@ -12,4 +12,4 @@
 
 [renderforest: logo maker](https://www.renderforest.com/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=coderdreamworld.AI-Logo-AI-Logo-FreeLogoGenerator-Best-AI-Logo-Designer&left_color=green&right_color=red)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoderdreamworld%2FAI-Logo-AI-Logo-FreeLogoGenerator-Best-AI-Logo-Designer&count_bg=%2379C83D&title_bg=%23AC0808&icon=adobeillustrator.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
