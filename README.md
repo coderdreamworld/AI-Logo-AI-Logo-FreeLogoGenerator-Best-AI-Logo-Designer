@@ -1,4 +1,4 @@
-# AI logo generator, Best AI logo designer, Top logo ai recommend
+# How to Create Professional Logos in 5 Minutes: AI Logo Generator Reviews
 
 [logo diffusion](https://logodiffusion.com/)
 
