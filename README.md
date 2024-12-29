@@ -1,4 +1,4 @@
-# AI-Logo-AI-Logo-FreeLogoGenerator-Best-AI-Logo-Designer
+# AI logo generator, Best AI logo designer, Top logo ai recommend
 
 [logo diffusion](https://logodiffusion.com/)
 
