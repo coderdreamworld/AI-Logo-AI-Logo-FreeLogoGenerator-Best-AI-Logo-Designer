@@ -7,3 +7,5 @@
 [logo](https://logo.com/)
 
 [looka](https://looka.com/)
+
+[logo ai](https://www.logoai.com/)
