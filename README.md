@@ -2,13 +2,13 @@
 
 [logo diffusion](https://logodiffusion.com/)
 
-[turbo logo](https://turbologo.com/)
+[turbo logo](https://fas.st/t/9XDbA347)
 
 [logo](https://logo.com/)
 
 [looka](https://looka.com/)
 
-[logo ai](https://www.logoai.com/)
+[logo ai](https://www.logoai.com/logo-maker?partner=5672540)
 
 [renderforest: logo maker](https://www.renderforest.com/)
 
