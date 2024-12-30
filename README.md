@@ -17,13 +17,7 @@
 
 ---
 
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Player</title>
-</head>
+
 <body>
     <div id="player99294-686837"></div>
     <p>
@@ -47,6 +41,5 @@
         }
     </script>
 </body>
-</html>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoderdreamworld%2FAI-Logo-AI-Logo-FreeLogoGenerator-Best-AI-Logo-Designer&count_bg=%2379C83D&title_bg=%23AC0808&icon=adobeillustrator.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
